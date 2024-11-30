@@ -7,7 +7,7 @@ mediante un link directo al path de colab, de igual manera, se adjunta el link a
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 
-# Correción
+# Corrección
 
 La correción realizada por el profesor, se encuentre dentro de la carpeta NOTEBOOK_CORRECIONES
 
