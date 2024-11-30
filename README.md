@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 # Corrección
 
-La correción realizada por el profesor, se encuentre dentro de la carpeta NOTEBOOK_CORRECIONES
+La correción realizada por el profesor, se encuentre dentro de la carpeta NOTEBOOK_CORRECIONES, Se realizó dentro de otro notebook debido a las limitaciones de GPU de Colab y del entorno
 
 # Funcionalidad
 
