@@ -6,6 +6,11 @@ mediante un link directo al path de colab, de igual manera, se adjunta el link a
 
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
+
+# Correción
+
+La correción realizada por el profesor, se encuentre dentro de la carpeta NOTEBOOK_CORRECIONES
+
 # Introducción
 El objetivo principal de este proyecto es construir un modelo de aprendizaje profundo que clasifique imágenes en seis categorías relacionadas con escenas naturales: edificios, bosques, glaciares, montañas, mar y calles, sin embargo, más allá de este objetivo inicial, la relevancia de este modelo se extiende a aplicaciones prácticas específicas en áreas como la implementación de sistemas CAPTCHA avanzados, sistemas de navegación autónoma, y herramientas de monitoreo ambiental o urbano.
 
