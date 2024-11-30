@@ -13,7 +13,7 @@ La correción realizada por el profesor, se encuentre dentro de la carpeta NOTEB
 
 # Funcionalidad
 
-Utilicé imagenes de google para la funcionalidad del entegable, por lo que se adjunta las imagenes probadas dentor de la carpeta "imagenes probadas"
+Utilicé imagenes de google para la funcionalidad del entegable, por lo que se adjunta las imagenes probadas dentro de la carpeta "imagenes probadas"
 
 # Introducción
 El objetivo principal de este proyecto es construir un modelo de aprendizaje profundo que clasifique imágenes en seis categorías relacionadas con escenas naturales: edificios, bosques, glaciares, montañas, mar y calles, sin embargo, más allá de este objetivo inicial, la relevancia de este modelo se extiende a aplicaciones prácticas específicas en áreas como la implementación de sistemas CAPTCHA avanzados, sistemas de navegación autónoma, y herramientas de monitoreo ambiental o urbano.
